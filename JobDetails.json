@@ -1,5 +1,5 @@
 {
-    'name' : 'santosh',
-    'job' : 'Software Engineer', 
-    'Company' : 'TCS'
+    "name" : "santosh",
+    "job" : "Software Engineer", 
+    "Company" : "TCS"
 }
